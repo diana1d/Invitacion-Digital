@@ -1,0 +1,11 @@
+{
+  "name": "graduacion-jhonatan",
+  "version": "1.0.0",
+  "description": "Sitio web de graduación",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
